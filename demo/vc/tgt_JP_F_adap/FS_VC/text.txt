@@ -1,0 +1,4 @@
+src_CN_f_000044  伽马射线暴的一种致命来源是超超新星。
+src_CN_m_001037  一场关于食品安全的激烈讨论就此展开。
+src_EN_f_010043  At last you will be able to sit back, relax and enjoy the fruits of your labour.
+src_EN_m_010050  Life is hard enough for them and they need a bit of support.
